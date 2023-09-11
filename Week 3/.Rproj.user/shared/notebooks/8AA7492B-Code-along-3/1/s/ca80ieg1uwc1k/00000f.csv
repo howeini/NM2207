@@ -1,0 +1,8 @@
+"0","# Add a character to the vector"
+"0","x <- c(123, 'w')"
+"0","# Check the type of x"
+"0","print(typeof(x))"
+"1","[1]"
+"1"," ""character"""
+"1","
+"
