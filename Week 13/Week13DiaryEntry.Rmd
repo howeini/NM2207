@@ -237,7 +237,7 @@ In my exploration of long-term and short-term popularity, I incorporated the ***
 The creation of my world map involved ***modifying code by Verkroost (2019)***. This process required a meticulous understanding of their data frames' structures, prompting me to adapt and mutate my data frame accordingly. This hands-on experience proved beneficial, enhancing my comprehension of the code's intricacies and sharpening my skills in data manipulation and function application. I also discovered the ***looping animation for the sliderInput function***.
 
 ### Formatting of Webpage
-The existence of ***tables, tab panels and callouts*** in Quarto was only discovered through my research. These features helped to make my website much more readable and easy to navigate, whilst providing elements of interactivity. I was also able to style my website ***using Inspect to identify the element's class and make changes in my styles.css sheet accordingly***, the most significant being making the outline of the tab panels red to stand out more.
+The existence of ***tables, tab panels, toggle and callouts*** in Quarto helped to make my website much more readable and easy to navigate, whilst providing elements of interactivity. I was also able to style my website ***using Inspect to identify the element's class and make changes in my styles.css sheet accordingly***, such as making the outline of the tab panels red and making key insights appear on a grey background to stand out more.
 
 ## Reference List
 
